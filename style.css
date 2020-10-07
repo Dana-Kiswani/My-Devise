@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+/* ==================== */
+
+body {
+    background-image: url(https://images.pexels.com/photos/2101187/pexels-photo-2101187.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+}
+/* ==================== */
+h1{
+    color: #F5F5DC;
+    background-color: blueviolet;
+    text-align: center;
+
+}
+/* ==================== */
+
+
+form{
+    font-family: 'Roboto', sans-serif;
+    width: 5cm;
+    text-align: center;
+    position: absolute;
+    left: 3cm;
+}
+
+
+/* ==================== */
+
+table{
+    
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    left: 19cm;
+    top: 86px;
+}
+
+th{
+    border: inset;
+    font-size: x-large;
+    background-color: #faebd76b;
+}
